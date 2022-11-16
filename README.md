@@ -1,1 +1,2 @@
-# NUS-CDE2503
+# NUS CE3201 Course website
+
