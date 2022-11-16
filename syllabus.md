@@ -18,7 +18,7 @@ description: >-
 
 ---
 
-## About CE3201
+## About CDE2503
 This course aims to introduce basic data science concepts and visualization techniques to students who
 are interested in climate, buildings, environment, etc. Students will gain hands-on experience in terms of how to mine, model and visualize data
 to tell a compelling story of global challenges (e.g., emerging climate crisis).

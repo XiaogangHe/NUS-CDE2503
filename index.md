@@ -1,11 +1,11 @@
 ---
 layout: home
-title: CE3201
+title: CDE2503
 nav_exclude: true
 last_modified_date: "now" 
 seo:
   type: Course
-  name: Civil Engineering Analytics and Data Visualization
+  name: Cities in Nature
 ---
 
 # {{ site.tagline }}
