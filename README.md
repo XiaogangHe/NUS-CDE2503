@@ -1,2 +1,2 @@
-# NUS CE3201 Course website
+# NUS CDE2503 (Cities in Nature) Module website
 
