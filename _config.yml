@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CDE2503
-tagline: Cities in Nature 📊
+tagline: Cities in Nature 🌴
 description: National University of Singapore (NUS), Spring 2023
 author: Xiaogang He
 baseurl: '/NUS-CDE2503' # the subpath of your site, e.g. /blog
@@ -30,11 +30,11 @@ permalink: pretty
 aux_links:
   Xiaogang He:
     - 'http://hydro.iis.u-tokyo.ac.jp/~hexg/cv.html'
-  pyCIVIL E-Book:
-    - 'https://xiaoganghe.github.io/python-climate-visuals'
+  Tutorials:
+    - 'https://xiaoganghe.github.io/cities-in-nature'
   LumiNUS:
     - 'https://luminus.nus.edu.sg/'
-footer_content: 'Xiaogang HE &copy; 2021 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
+footer_content: 'Xiaogang HE &copy; 2022 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
 
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html

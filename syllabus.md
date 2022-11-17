@@ -19,9 +19,7 @@ description: >-
 ---
 
 ## About CDE2503
-This course aims to introduce basic data science concepts and visualization techniques to students who
-are interested in climate, buildings, environment, etc. Students will gain hands-on experience in terms of how to mine, model and visualize data
-to tell a compelling story of global challenges (e.g., emerging climate crisis).
+This course aims to xxx.
 
 ### Learning Outcomes
 - An understanding of visualization techniques including data models, graphical perception and methods for visual encoding and interaction.
