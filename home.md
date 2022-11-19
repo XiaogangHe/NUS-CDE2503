@@ -5,6 +5,8 @@ nav_order: 1
 last_modified_date: "now"
 ---
 
+![Image of Cities-In-Nature](./assets/images/palm-tree.png)
+
 # {{ site.tagline }}
 {: .mb-2 }
 {{ site.description }}
@@ -27,7 +29,5 @@ This course aims to xxx.
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
-
-![Image of NUS Campus](./assets/images/NUS-campus.svg)
 
 **This website is in progress and all content is subject to change.**{: .text-grey-dk-000 }

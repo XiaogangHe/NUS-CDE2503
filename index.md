@@ -8,12 +8,12 @@ seo:
   name: Cities in Nature
 ---
 
+![Image of Cities-In-Nature](./assets/images/palm-tree.png)
+
 # {{ site.tagline }}
 {: .mb-2 }
 {{ site.description }}
 {: .fs-6 .fw-300 }
-
-![Image of Cities-In-Nature](./assets/images/palm-tree.png)
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}

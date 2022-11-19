@@ -61,13 +61,13 @@
   },"10": {
     "doc": "Home",
     "title": "Examination Week",
-    "content": "Nov 29 Urban Heat Stress and Labor Productivity Loss in Southeast Asia [Project Description] Project Due . This website is in progress and all content is subject to change. ",
+    "content": "Nov 29 Urban Heat Stress and Labor Productivity Loss in Southeast Asia [Project Description] Project Due This website is in progress and all content is subject to change. ",
     "url": "http://localhost:4000/home/#examination-week",
     "relUrl": "/home/#examination-week"
   },"11": {
     "doc": "Home",
     "title": "Home",
-    "content": " ",
+    "content": ". ",
     "url": "http://localhost:4000/home/",
     "relUrl": "/home/"
   },"12": {
@@ -115,13 +115,13 @@
   },"19": {
     "doc": "CDE2503",
     "title": "Examination Week",
-    "content": "Nov 29 Urban Heat Stress and Labor Productivity Loss in Southeast Asia [Project Description] Project Due . This website is in progress and all content is subject to change. ",
+    "content": "Nov 29 Urban Heat Stress and Labor Productivity Loss in Southeast Asia [Project Description] Project Due This website is in progress and all content is subject to change. ",
     "url": "http://localhost:4000/#examination-week",
     "relUrl": "/#examination-week"
   },"20": {
     "doc": "CDE2503",
     "title": "CDE2503",
-    "content": " ",
+    "content": ". ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
   },"21": {
