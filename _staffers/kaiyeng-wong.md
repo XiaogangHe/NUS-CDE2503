@@ -3,7 +3,7 @@ name: Kai Yeng WONG
 role: Practitioner
 email: 📧 wkyura@yahoo.com.sg
 website: https://xiaoganghe.github.io/NUS-CDE2503/
-photo: kaiying-wong.png
+photo: kaiyeng-wong.png
 pronouns: he/him
 ---
 📍 xx-xx-xx (office)
