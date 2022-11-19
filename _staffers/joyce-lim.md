@@ -1,8 +1,8 @@
 ---
 name: Joyce LIM
 role: Teaching Assistant
-email: 📧 h.chen@u.nus.edu  
-photo: haoling-chen.png
+email: 📧 joyce.lim@nus.edu.sg  
+photo: joyce-lim.png
 ---
 
 📍 Ex-xx-xx (office)
