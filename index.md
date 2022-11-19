@@ -13,6 +13,8 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
+![Image of Cities-In-Nature](./assets/images/palm-tree.png)
+
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
@@ -30,7 +32,5 @@ This course aims to xxx.
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
-
-![Image of Cities-In-Nature](./assets/images/palm-tree.png)
 
 **This website is in progress and all content is subject to change.**{: .text-grey-dk-000 }
