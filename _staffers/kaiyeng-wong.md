@@ -1,5 +1,5 @@
 ---
-name: Kai Yeng WONG 
+name: WONG Kai Yeng 
 role: Instructor
 email: 📧 wkyura@yahoo.com.sg
 website: https://xiaoganghe.github.io/NUS-CDE2503/
