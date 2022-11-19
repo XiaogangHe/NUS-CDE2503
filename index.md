@@ -31,6 +31,6 @@ This course aims to xxx.
 {{ module }}
 {% endfor %}
 
-![Image of NUS Campus](./assets/images/NUS-campus.svg)
+![Image of Cities-In-Nature](./assets/images/palm-tree.png)
 
 **This website is in progress and all content is subject to change.**{: .text-grey-dk-000 }
