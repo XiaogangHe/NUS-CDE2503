@@ -17,6 +17,11 @@ last_modified_date: "now"
 {{ staffer }}
 {% endfor %}
 
+{% assign instructors = site.staffers | where: 'role', 'Practitioner' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
 {% assign overview = site.slides | where: "title", "Overview" | first %}
 {{ overview.content }}
 
