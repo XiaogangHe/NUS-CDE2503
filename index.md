@@ -8,7 +8,7 @@ seo:
   name: Cities in Nature
 ---
 
-![Image of Cities-In-Nature](./assets/images/palm-tree.png)
+![Image of Cities-In-Nature](./assets/images/palm-tree-river.png)
 
 # {{ site.tagline }}
 {: .mb-2 }

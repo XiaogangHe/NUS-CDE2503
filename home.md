@@ -5,7 +5,7 @@ nav_order: 1
 last_modified_date: "now"
 ---
 
-![Image of Cities-In-Nature](./assets/images/palm-tree.png)
+![Image of Cities-In-Nature](./assets/images/palm-tree-river.png)
 
 # {{ site.tagline }}
 {: .mb-2 }
