@@ -1,6 +1,7 @@
 ---
 name: Xiaogang HE
 role: Instructor
+title: Assistant Professor
 email: 📧 hexg@nus.edu.sg
 website: http://hydro.iis.u-tokyo.ac.jp/~hexg/cv.html
 photo: xiaogang-he.png
