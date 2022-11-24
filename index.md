@@ -33,7 +33,6 @@ This course aims to xxx.
 {{ module }}
 {% endfor %}
 
-**This website is in progress and all content is subject to change.**{: .text-grey-dk-000 }
 
-{: .warning }
-A paragraph ...
+{: .note }
+This website is in progress and all content is subject to change.
