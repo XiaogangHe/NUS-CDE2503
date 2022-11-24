@@ -13,11 +13,17 @@
       <span class="staffer-pronouns">{{ page.pronouns }}</span>
       {% endif %}
     </h3>
+    {% if page.title %}
+    <p class="staffer-meta-bold"> {{ page.title | markdownify | strip_html }}</p>
+    {% endif %}
+    {% if page.institute %}
+    <p class="staffer-meta"> {{ page.institute | markdownify | strip_html }}</p>
+    {% endif %}
     {% if page.email %}
     <p><a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
     {% endif %}
-    {% if page.section %}
-    <p class="staffer-meta">Quiz Section: {{ page.section | markdownify | strip_html }}</p>
+    {% if page.address %}
+    <p class="staffer-meta"> {{ page.address | markdownify | strip_html }}</p>
     {% endif %}
     {% if page.office-hours %}
     <p class="staffer-meta">Office Hours: {{ page.office-hours | markdownify | strip_html }}</p>

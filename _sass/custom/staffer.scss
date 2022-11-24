@@ -20,4 +20,8 @@
   .staffer-meta {
     @extend .text-grey-dk-000;
   }
+
+  .staffer-meta-bold {
+    @extend .text-grey-dk-100, .fw-500;
+  }
 }
