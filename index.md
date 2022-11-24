@@ -34,3 +34,6 @@ This course aims to xxx.
 {% endfor %}
 
 **This website is in progress and all content is subject to change.**{: .text-grey-dk-000 }
+
+{: .warning }
+A paragraph ...
