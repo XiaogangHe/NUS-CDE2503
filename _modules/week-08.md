@@ -1,5 +1,5 @@
 ---
-title: Week 6
+title: Week 08
 ---
 
 Nov 7

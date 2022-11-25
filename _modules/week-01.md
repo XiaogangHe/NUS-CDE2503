@@ -1,5 +1,5 @@
 ---
-title: Week 8 - Welcome to CE3201 👏
+title: Week 1 - Welcome to CE3201 👏
 ---
 
 Oct 3

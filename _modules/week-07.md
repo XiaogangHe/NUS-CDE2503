@@ -1,5 +1,5 @@
 ---
-title: Week 6
+title: Week 7
 ---
 
 Nov 7
