@@ -1,3 +1,23 @@
+---
+layout: page
+title: Syllabus
+nav_order: 2
+last_modified_date: "now"
+description: >-
+    Syllabus.
+---
+
+# Syllabus 📖
+{:.no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## About CDE2503 - Cities in Nature
 This course aims to provide students with an understanding of the "Sustainable Environment" outcome of the Singapore Liveability Framework (LF) that was developed by the Centre for Liveable Cities (CLC). It will address what is sustainability, and how it affects liveability. Most importantly, you will be able to understand how cities address complex issues.
 
