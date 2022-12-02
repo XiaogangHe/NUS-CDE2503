@@ -18,15 +18,15 @@ schedule:
   - name: Mon
     events:
       - name: Lecture
-        start: 6:00 PM
-        end: 8:00 PM 
-        location: E4-04-04
+        start: 10:00 AM
+        end: 12:00 PM 
+        location: SDE3-LT422
   - name: Tue
   - name: Wed
     events:
-      - name: Tutorial
-        start: 6:00 PM
-        end: 8:00 PM
+      - name: Studio
+        start: 9:00 AM
+        end: 12:00 PM
         location: PC5 (E2-03-08) <br /> PC6 (E2-03-09) 
   - name: Thu
     events:
