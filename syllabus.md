@@ -1,5 +1,7 @@
 ## About CDE2503 - Cities in Nature
-This course aims to provide students with an understanding of the "Sustainable Environment" outcome of the Singapore Liveability Framework (LF) that was developed by the Centre for Liveable Cities (CLC). It will address what is sustainability, and how it affects liveability. Most importantly, you will be able to understand how cities address complex issues. 
+This course aims to provide students with an understanding of the "Sustainable Environment" outcome of the Singapore Liveability Framework (LF) that was developed by the Centre for Liveable Cities (CLC). It will address what is sustainability, and how it affects liveability. Most importantly, you will be able to understand how cities address complex issues.
+
+This module will cover the themes of Blue and Green in Nature, and Climate Resilient District, covering topics such as water, green, waste, food, climate mitigation, climate adaptation, and energy resilience. Using case studies, students will glean insights on how to balance different stakeholders while solving complex urban issues. 
 
 ### Learning Outcomes
 - Understand key principles taught within the themes of Blue and Green in Nature, and Climate Resilient District that shapes the development of a blue, green and climate resilient city
@@ -40,7 +42,7 @@ Lecture 7 (27 Mar 2023): Energy Resilience
 ---
 
 ### Lectures
-- We will have 6 lectures in total. One lecture per week. 
+- We will have 7 lectures in total. One lecture per week. 
 - These lectures will be split into two themes. The first three will focus on data analysis, 
   which will be followed by another three lectures on data visualization.  
 - Lectures will be held live on Zoom and will be recorded. 
