@@ -1,37 +1,43 @@
----
-layout: page
-title: Syllabus
-nav_order: 2
-last_modified_date: "now"
-description: >-
-    Syllabus.
+## About CDE2503 - Cities in Nature
+This course aims to provide students with an understanding of the "Sustainable Environment" outcome of the Singapore Liveability Framework (LF) that was developed by the Centre for Liveable Cities (CLC). It will address what is sustainability, and how it affects liveability. Most importantly, you will be able to understand how cities address complex issues. 
+
+### Learning Outcomes
+- Understand key principles taught within the themes of Blue and Green in Nature, and Climate Resilient District that shapes the development of a blue, green and climate resilient city
+- Examine and evaluate how blue, green or biophilic the city is with reference to the plans implemented by agencies in Singapore 
+- Identify problem(s) that prevents a city from achieving the Sustainable Environment outcome of the LF
+- Formulate solution(s) using key principles highlighted in the two broad themes of Blue and Green in Nature and Climate Resilient District to address problem(s) identified 
+- Analyse and evaluate solution(s) with the use of simulation and prediction models to highlight benefits and trade-offs 
+- Propose biophilic solution(s) in the form of policies, plans and programmes
+
+
+### Prerequisites
+No pre-requisites for this module. 
+ 
 ---
 
 # Syllabus 📖
-{:.no_toc}
+_**Theme 1: Blue and Green in Nature**_
+
+Lecture 1 (9 Jan 2023): Introduction and Water 
+
+Lecture 2 (16 Jan 2023): City in Nature
+
+Lecture 3 (30 Jan 2023): Food and Urban Farm 
+
+Lecture 4 (13 Feb 2023): Waste Management
+
+_**Theme 2: Climate Resilient District**_
+
+Lecture 5 (6 Mar 2023): Climate Mitigation
+
+Lecture 6 (13 Mar 2023): Climate Adaptation
+
+Lecture 7 (27 Mar 2023): Energy Resilience
 
 ## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+[to add on]
 
 ---
-
-## About CDE2503
-This course aims to xxx.
-
-### Learning Outcomes
-- An understanding of visualization techniques including data models, graphical perception and methods for visual encoding and interaction.
-- Exposure to several common data domains and corresponding analysis tasks, including multivariate data, networks, text and cartography.
-- Practical experience building visuals from data using open-source tools and libraries, and deriving sound interpretations from them.
-
-### Prerequisites
-This module requires no prior knowledge of progamming. Only basic concepts of statistics are required. 
-
-## Hybrid Format
-CE3201 will be taught in a hybrid format with lectures and tutorials. For the most up-to-date schedule, 
-you can check the [Home]({{ site.baseurl }}{% link index.md %}) page.
 
 ### Lectures
 - We will have 6 lectures in total. One lecture per week. 
