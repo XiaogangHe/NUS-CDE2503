@@ -20,7 +20,7 @@ schedule:
       - name: Lecture
         start: 10:00 AM
         end: 12:00 PM 
-        location: SDE3-LT422
+        location: SDE3-LT422 
   - name: Tue
   - name: Wed
     events:
