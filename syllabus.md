@@ -56,9 +56,6 @@ Lecture 6 (13 Mar 2023): Climate Adaptation
 
 Lecture 7 (27 Mar 2023): Energy Resilience
 
-## Table of contents
-[to add on]
-
 ---
 
 ### Lectures
