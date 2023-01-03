@@ -1,14 +1,7 @@
 ---
-title: Week 4
+title: Week 4: Food Security and Sustainability
 ---
 
-Oct 24
-: **Lecture &nbsp; 4**{: .label .label-blue} From Data to Visualization
-  : [[Slides](https://luminus.nus.edu.sg)] [[Recordings](https://luminus.nus.edu.sg)]
-
-Oct 26
-: **Tutorial 4**{: .label .label-green} Work on HW#1
-  : [](#) 
-
-Oct 30
-: **HW#1 due**{: .label .label-red}
+30 January 2023
+: **Lecture &nbsp; 3**{: .label .label-blue} Food Security and Sustainability
+  : [[Slides](https://canvas.nus.edu.sg/courses/42112/pages/lecture-3-food-security-and-sustainability?module_item_id=97188)] [[Panel Discussion Q&A](https://canvas.nus.edu.sg/courses/42112/discussion_topics/27407?module_item_id=97461)]
