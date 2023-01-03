@@ -1,11 +1,7 @@
 ---
-title: Week 2
+title: Week 2 - City in Nature
 ---
 
-Oct 10
-: **Lecture &nbsp; 2**{: .label .label-blue} Probability/Statistics
-  : [[Slides](https://luminus.nus.edu.sg)] [[Recordings](https://luminus.nus.edu.sg)]
-
-Oct 12
-: **Tutorial 2**{: .label .label-green} [Pandas](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/pandas.html)
-  : [[Exercise](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/pandas-exercise.html)] [[Solution](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/pandas-solution.html)]
+16 January 2023
+: **Lecture &nbsp; 2**{: .label .label-blue} City in Nature
+  : [[Slides][(https://luminus.nus.edu.sg)](https://canvas.nus.edu.sg/courses/42112/pages/lecture-2-city-in-nature?module_item_id=97187)] [[Panel Discussion Q&A](https://canvas.nus.edu.sg/courses/42112/discussion_topics/27406?module_item_id=97460)]
