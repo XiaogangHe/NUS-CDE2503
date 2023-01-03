@@ -1,11 +1,7 @@
 ---
-title: Week 1 - Welcome to CE3201 👏
+title: Week 1 - Introduction + Water 👏
 ---
 
-Oct 3
-: **Lecture &nbsp; 1**{: .label .label-blue}  Introduction
-  : [[Slides](https://luminus.nus.edu.sg)] [[Recordings](https://luminus.nus.edu.sg)]
-
-Oct 5 
-: **Tutorial 1**{: .label .label-green } [Python](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/python.html), [Numpy](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/numpy.html)
-  : [[Exercise](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/python-exercise.html)] [[Solution](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-analytics/python-solution.html)]
+O9 January 2023
+: **Lecture &nbsp; 1**{: .label .label-blue}  Introduction + Water
+  : [[Slides][(https://luminus.nus.edu.sg)](https://canvas.nus.edu.sg/courses/42112/pages/lecture-1-introduction-+-water?module_item_id=97169)] [[Recordings](https://luminus.nus.edu.sg)]
