@@ -44,7 +44,7 @@ Lecture 1 (9 Jan 2023): Introduction and Water
 
 Lecture 2 (16 Jan 2023): City in Nature
 
-Lecture 3 (30 Jan 2023): Food and Urban Farm 
+Lecture 3 (30 Jan 2023): Food Security and Sustainability
 
 Lecture 4 (13 Feb 2023): Waste Management
 
@@ -78,7 +78,7 @@ Lecture 7 (27 Mar 2023): Energy Resilience
 - I have an open-door policy. So feel free to drop by my office for any reason, including course material clarification, 
   questions on tutorials, assignments, and projects, or even just to hang out.  
 
-## Textbooks and Materials
+## Textbooks and Materials (TO UPDATE THIS)
 
 - Primary textbook: [**pyCIVIL**](https://xiaoganghe.github.io/python-climate-visuals) (**py**thon **C**l**I**mate **VI**sua**L**s), 
   a free online textbook that is currently under development.
@@ -88,7 +88,7 @@ Lecture 7 (27 Mar 2023): Energy Resilience
 - A computer.
 - Stable internet connection. 
 
-## Grading Scheme
+## Grading Scheme (TO UPDATE THIS)
 
 | Assignment type          | Weight   | Number      |
 |:-------------------------|:---------|:------------|
