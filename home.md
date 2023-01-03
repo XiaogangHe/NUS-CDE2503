@@ -26,10 +26,12 @@ This module will cover the themes of Blue and Green in Nature, and Climate Resil
 
 <small>[Read more...]({{ site.baseurl }}{% link syllabus.md %})</small>
 
-[Find Zoom Links, Slides, and Recordings on LumiNUS](https://luminus.nus.edu.sg){: .btn .btn-blue }
+[Find Zoom Links, Slides, and Recordings on Canvas](https://www.nus.edu.sg/canvas/login/){: .btn .btn-blue }
 
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
 
-**This website is in progress and all content is subject to change.**{: .text-grey-dk-000 }
+
+{: .note }
+This website is in progress and all content is subject to change.
