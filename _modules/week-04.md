@@ -1,5 +1,5 @@
 ---
-title: Week 4 Food Security and Sustainability
+title: Week 4 - Food Security and Sustainability
 ---
 
 30 January 2023
