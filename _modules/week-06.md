@@ -2,6 +2,7 @@
 title: Week 6 - Waste Management
 ---
 
+13 February 2023
 : **Lecture &nbsp; 4**{: .label .label-blue} Waste Management
   : [[Slides](https://canvas.nus.edu.sg/courses/42112/pages/lecture-4-waste-management?module_item_id=97196)][[Panel Discussion Q&A](https://canvas.nus.edu.sg/courses/42112/discussion_topics/27408?module_item_id=97465)]
 : **Panelist &nbsp; 1**{: .label .label-yellow} **Assoc Prof. Pang Sze Dai** (Associate Professor, Deputy Head (Academic Matters), Department of Civil and Environmental Engineering, NUS)
