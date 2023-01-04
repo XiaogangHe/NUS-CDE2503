@@ -1,12 +1,8 @@
 ---
-title: Week 5
+title: Week 5 - Studio 1 
 ---
 
-Oct 31
-: **Lecture &nbsp; 5**{: .label .label-blue} Figure Design
-  : [[Slides](https://luminus.nus.edu.sg)] [[Recordings](https://luminus.nus.edu.sg)]
-: **HW#2 OUT**{: .label .label-yellow}
+6 February 2023
+: **Lecture &nbsp; 5**{: .label .label-blue} Studio 1 - Working Studio
+  : [[Studio](https://canvas.nus.edu.sg/courses/42112/pages/studio-1-working-studio?module_item_id=97195)] 
 
-Nov 2
-: **Tutorial 5**{: .label .label-green} [Matplotlib](https://xiaoganghe.github.io/python-climate-visuals/chapters/data-visuals/matplotlib.html) + Work on [HW#2](https://xiaoganghe.github.io/python-climate-visuals/chapters/homework/homework2.html)
-  : [](#) 
