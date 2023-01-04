@@ -37,7 +37,7 @@ No pre-requisites for this module.
  
 ---
 
-# Syllabus 📖
+# Theme 📖
 _**Theme 1: Blue and Green in Nature**_
 
 Lecture 1 (9 Jan 2023): Introduction and Water 
