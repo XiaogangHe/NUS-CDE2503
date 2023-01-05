@@ -103,6 +103,6 @@ Studio 5 (10 Apr 2023): Presentation Studio 3
 | Studio Project[^2]       | 60%       | 5          |
 | Quizzes                  | 30%       | 2          |
 
-[^1]: Please be punctual to lecture session. Attendance is compulsory and will be taken. 
+[^1]: Please be punctual for lectures. Attendance is compulsory and will be taken. 
 
 [^2]: Studio project will consist of 2 components: Individual (15%), Group (45). Attendance for studios are also compulsory. Refer to [Canvas](https://canvas.nus.edu.sg/courses/42112/pages/resources?module_item_id=97469) for the grading rubrics.
