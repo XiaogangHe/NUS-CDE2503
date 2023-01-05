@@ -39,7 +39,11 @@ No pre-requisites for this module.
 
 # Theme 📖
 _**Theme 1: Blue and Green in Nature**_
+_**Theme 2: Climate Resilient District**_
 
+---
+
+### Lectures
 Lecture 1 (9 Jan 2023): Introduction and Water 
 
 Lecture 2 (16 Jan 2023): City in Nature
@@ -48,18 +52,13 @@ Lecture 3 (30 Jan 2023): Food Security and Sustainability
 
 Lecture 4 (13 Feb 2023): Solid Waste Management - Singapore's Experience
 
-_**Theme 2: Climate Resilient District**_
-
 Lecture 5 (6 Mar 2023): Climate Mitigation
 
 Lecture 6 (13 Mar 2023): Climate Adaptation
 
 Lecture 7 (27 Mar 2023): Energy Resilience
 
----
-
-### Lectures
-- We will have 7 lectures in total. One lecture per week. 
+-  We will have 7 lectures in total. One lecture per week. 
 - These lectures will be split into two themes. The first three will focus on data analysis, 
   which will be followed by another three lectures on data visualization.  
 - Lectures will be held live on Zoom and will be recorded. 
