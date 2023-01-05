@@ -39,6 +39,7 @@ No pre-requisites for this module.
 
 # Theme 📖
 _**Theme 1: Blue and Green in Nature**_
+
 _**Theme 2: Climate Resilient District**_
 
 ---
@@ -82,7 +83,7 @@ Lecture 7 (27 Mar 2023): Energy Resilience
 - Focus on core readings for each week.
 - Supplementary materials willl be for you to deepen your knowledge at your own time. 
 
-## Grading Scheme (TO UPDATE THIS)
+## Grading Scheme
 
 | Assignment type          | Weight   | Number      |
 |:-------------------------|:---------|:------------|
