@@ -79,7 +79,7 @@ Lecture 7 (27 Mar 2023): Energy Resilience
 
 ## Reading and Video Materials
 
-- Pre-lecture readings and/or video materials for each week can be found on [Canvas]https://canvas.nus.edu.sg/courses/42112
+- Pre-lecture readings and/or video materials for each week can be found on [Canvas](https://canvas.nus.edu.sg/courses/42112)
 - Focus on core readings for each week.
 - Supplementary materials willl be for you to deepen your knowledge at your own time. 
 
@@ -93,4 +93,4 @@ Lecture 7 (27 Mar 2023): Energy Resilience
 
 [^1]: Please be punctual to lecture session. Attendance is compulsory and will be taken. 
 
-[^2]: Studio project will consist of 2 components: Individual (15%), Group (45). Attendance for studios are also compulsory. Refer to [Canvas] https://canvas.nus.edu.sg/courses/42112/pages/resources?module_item_id=97469 for the grading rubrics.
+[^2]: Studio project will consist of 2 components: Individual (15%), Group (45). Attendance for studios are also compulsory. Refer to [Canvas](https://canvas.nus.edu.sg/courses/42112/pages/resources?module_item_id=97469) for the grading rubrics.
