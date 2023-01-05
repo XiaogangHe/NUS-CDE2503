@@ -85,11 +85,11 @@ Lecture 7 (27 Mar 2023): Energy Resilience
 
 ## Grading Scheme
 
-| Assignment type          | Weight   | Number      |
-|:-------------------------|:---------|:------------|
-| Lecture  attendance[^1]  | 10%      | 7           |
-| Studio Project[^2]       | 60%      | 5           |
-| Quizzes                  | 30%      | 2           |
+| Assignment type          | Weightage | Number     |
+|:-------------------------|:----------|:-----------|
+| Lecture  attendance[^1]  | 10%       | 7          |
+| Studio Project[^2]       | 60%       | 5          |
+| Quizzes                  | 30%       | 2          |
 
 [^1]: Please be punctual to lecture session. Attendance is compulsory and will be taken. 
 
