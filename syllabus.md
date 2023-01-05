@@ -37,7 +37,8 @@ No pre-requisites for this module.
  
 ---
 
-# Theme 📖
+# Module Components 📖
+***Themes***
 _**Theme 1: Blue and Green in Nature**_
 
 _**Theme 2: Climate Resilient District**_
@@ -59,14 +60,24 @@ Lecture 6 (13 Mar 2023): Climate Adaptation
 
 Lecture 7 (27 Mar 2023): Energy Resilience
 
--  We will have 7 lectures in total. One lecture per week. 
+-  We have 7 lectures in total. One lecture per week. 
 - These lectures will be split into two themes. The first three will focus on data analysis, 
   which will be followed by another three lectures on data visualization.  
 - Lectures will be held live on Zoom and will be recorded. 
   I will also provide additional face-to-face support if you prefer to come to the classroom to attend the lectures. 
 
 ### Studio
-- We will have 5 studios in total. They are either working studio where you get to have discussion session with your team, SL and TA, or presentation studio where you present your findings.
+Studio 1 (6 Feb 2023): Working Studio 1
+
+Studio 2 (27 Feb 2023): Presentation Studio 1 
+
+Studio 3 (20 Mar 2023): Presentation Studio 2
+
+Studio 4 (3 Apr 2023): Working Studio 2
+
+Studio 5 (10 Apr 2023): Presentation Studio 3
+
+- We have 5 studios in total. They are either working studio where you get to have discussion session with your team, SL and TA, or presentation studio where you present your findings.
 - Studios will happen on weeks where there is no lecture.
 - Information about the studios can be found on [Canvas](https://xiaoganghe.github.io/python-climate-visuals) or on [Github](https://xiaoganghe.github.io/InVEST-Cities-in-Nature/)
 - Feel free to write to your SL and TA if you have any questions. 
