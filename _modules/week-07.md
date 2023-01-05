@@ -1,14 +1,7 @@
 ---
-title: Week 7
+title: Week 7 - Studio 2
 ---
 
-Nov 7
-: **Lecture &nbsp; 6**{: .label .label-blue} Storytelling with Data
-  : [[Slides](https://luminus.nus.edu.sg)] [[Recordings](https://luminus.nus.edu.sg)]
-
-Nov 9
-: **Tutorial 6**{: .label .label-green} Work on HW#2
-  : [](#) 
-
-Nov 13
-: **HW#2 due**{: .label .label-red}
+27 Feb
+: **Studio &nbsp; 2**{: .label .label-blue} Presentation Studio
+  : [[Slides](https://canvas.nus.edu.sg/courses/42112/pages/studio-2-presentation-studio?module_item_id=97294] 
