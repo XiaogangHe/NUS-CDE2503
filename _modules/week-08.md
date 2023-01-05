@@ -1,14 +1,10 @@
 ---
-title: Week 08
+title: Week 08 - Climate Mitigation
 ---
 
-Nov 7
-: **Lecture &nbsp; 6**{: .label .label-blue} Storytelling with Data
-  : [[Slides](https://luminus.nus.edu.sg)] [[Recordings](https://luminus.nus.edu.sg)]
-
-Nov 9
-: **Tutorial 6**{: .label .label-green} Work on HW#2
-  : [](#) 
-
-Nov 13
-: **HW#2 due**{: .label .label-red}
+6 March
+: **Lecture &nbsp; 5**{: .label .label-blue} Climate Mitigation
+  : [[Slides](https://canvas.nus.edu.sg/courses/42112/pages/lecture-5-climate-mitigation?module_item_id=97295)] [[Panel Discussion Q&A](https://luminus.nus.edu.sg)]
+: **Panelist &nbsp; 1**{: .label .label-yellow} **Mr. Teo Eng Dih** (Current Chief Executive of the Maritime and Port Authority of Singapore (MPA), former Deputy Secretary (Policy) of the Ministry of Defense (MINDEF))
+: **Panelist &nbsp; 2**{: .label .label-yellow} [Asst Prof. He Xiaogang]({{ site.baseurl }}{% link staff.md %}){: .v-align-middle}
+: **Moderator**{: .label .label-green} [Mr. Wong Kai Yeng]({{ site.baseurl }}{% link staff.md %}){: .v-align-middle}
