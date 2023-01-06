@@ -34,7 +34,7 @@ aux_links:
     - 'https://xiaoganghe.github.io/InVEST-Cities-in-Nature'
   Canvas:
     - 'https://www.nus.edu.sg/canvas/login/'
-footer_content: 'Xiaogang HE &copy; 2022 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
+footer_content: 'Xiaogang HE &copy; 2023 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>'
 
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
