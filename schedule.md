@@ -8,6 +8,8 @@ description: The weekly event schedule.
 
 # Weekly Timetable 🗓️  
 
-{% for schedule in site.schedules %}
+{% assign schedules = site.schedules %}
+{% for schedule in schedules %}
 {{ schedule }}
 {% endfor %}
+
