@@ -37,18 +37,23 @@ No pre-requisites for this module.
  
 ---
 
-# Theme 📖
+# Module Components 📖
+***Themes***
+
 _**Theme 1: Blue and Green in Nature**_
 
+_**Theme 2: Climate Resilient District**_
+
+---
+
+### Lectures
 Lecture 1 (9 Jan 2023): Introduction and Water 
 
 Lecture 2 (16 Jan 2023): City in Nature
 
 Lecture 3 (30 Jan 2023): Food Security and Sustainability
 
-Lecture 4 (13 Feb 2023): Waste Management
-
-_**Theme 2: Climate Resilient District**_
+Lecture 4 (13 Feb 2023): Solid Waste Management - Singapore's Experience
 
 Lecture 5 (6 Mar 2023): Climate Mitigation
 
@@ -56,21 +61,27 @@ Lecture 6 (13 Mar 2023): Climate Adaptation
 
 Lecture 7 (27 Mar 2023): Energy Resilience
 
----
-
-### Lectures
-- We will have 7 lectures in total. One lecture per week. 
+-  We have 7 lectures in total. One lecture per week. 
 - These lectures will be split into two themes. The first three will focus on data analysis, 
   which will be followed by another three lectures on data visualization.  
 - Lectures will be held live on Zoom and will be recorded. 
   I will also provide additional face-to-face support if you prefer to come to the classroom to attend the lectures. 
 
-### Tutorials
-- We will have 6 tutorials in total. One tutorial per week. 
-- Tutorials are prepared in Jupyter Notebook format and are fully available [online](https://xiaoganghe.github.io/python-climate-visuals). 
-- We understand that sometimes programming and debugging could be cumbersome. So please come to the computer lab to do tutorials so that the TAs
-  and I can provide hands-on help.
-- You are welcome to seek help during office hours or through emails. But the best place to get help is the weekly tutorial session.  
+### Studio
+Studio 1 (6 Feb 2023): Working Studio 1
+
+Studio 2 (27 Feb 2023): Presentation Studio 1 
+
+Studio 3 (20 Mar 2023): Presentation Studio 2
+
+Studio 4 (3 Apr 2023): Working Studio 2
+
+Studio 5 (10 Apr 2023): Presentation Studio 3
+
+- We have 5 studios in total. They are either working studio where you get to have discussion session with your team, SL and TA, or presentation studio where you present your findings.
+- Studios will happen on weeks where there is no lecture.
+- Information about the studios can be found on [Canvas](https://xiaoganghe.github.io/python-climate-visuals) or on [Github](https://xiaoganghe.github.io/InVEST-Cities-in-Nature/)
+- Feel free to write to your SL and TA if you have any questions. 
 
 ### Office Hours
 - Weekly fixed office hours can be found on the [Schedule]({{ site.baseurl }}{% link schedule.md %}) tab, 
@@ -78,24 +89,20 @@ Lecture 7 (27 Mar 2023): Energy Resilience
 - I have an open-door policy. So feel free to drop by my office for any reason, including course material clarification, 
   questions on tutorials, assignments, and projects, or even just to hang out.  
 
-## Textbooks and Materials (TO UPDATE THIS)
+## Reading and Video Materials
 
-- Primary textbook: [**pyCIVIL**](https://xiaoganghe.github.io/python-climate-visuals) (**py**thon **C**l**I**mate **VI**sua**L**s), 
-  a free online textbook that is currently under development.
-  Your comments and suggestions are welcome. 
-- Supplementary textbook: [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/). (free online book; although based on `R`, 
-  it is a great guide to make fabulous visualizations that correctly reflect the data). 
-- A computer.
-- Stable internet connection. 
+- Pre-lecture readings and/or video materials for each week can be found on [Canvas](https://canvas.nus.edu.sg/courses/42112)
+- Focus on core readings for each week.
+- Supplementary materials willl be for you to deepen your knowledge at your own time. 
 
-## Grading Scheme (TO UPDATE THIS)
+## Grading Scheme
 
-| Assignment type          | Weight   | Number      |
-|:-------------------------|:---------|:------------|
-| Tutorial attendance[^1]  | 20%      | 4 (+2)[^2]  |
-| Homework                 | 35%      | 2           |
-| Final Project            | 45%      | 1           |
+| Assignment type          | Weightage | Number     |
+|:-------------------------|:----------|:-----------|
+| Lecture  attendance[^1]  | 10%       | 7          |
+| Studio Project[^2]       | 60%       | 5          |
+| Quizzes                  | 30%       | 2          |
 
-[^1]: Please come to the computer lab (PC5 & PC6) on time to do tutorials. Attendance will be checked.  
+[^1]: Please be punctual for lectures. Attendance is compulsory and will be taken. 
 
-[^2]: There are 6 tutorial sessions in total, but you can miss Tutorial 4 (Oct 26, Week 11) and Tutorial 6 (Nov 9, Week 13) and still receive full points.
+[^2]: Studio project will consist of 2 components: Individual (15%), Group (45). Attendance for studios are also compulsory. Refer to [Canvas](https://canvas.nus.edu.sg/courses/42112/pages/resources?module_item_id=97469) for the grading rubrics.

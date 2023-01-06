@@ -1,14 +1,7 @@
 ---
-title: Week 13
+title: Week 13 - Presentation Studio
 ---
 
-Nov 7
-: **Lecture &nbsp; 6**{: .label .label-blue} Storytelling with Data
-  : [[Slides](https://luminus.nus.edu.sg)] [[Recordings](https://luminus.nus.edu.sg)]
-
-Nov 9
-: **Tutorial 6**{: .label .label-green} Work on HW#2
-  : [](#) 
-
-Nov 13
-: **HW#2 due**{: .label .label-red}
+10 Apr
+: **Studio &nbsp; 5**{: .label .label-blue} Presentation Studio
+  : [[Studio Details](https://canvas.nus.edu.sg/courses/42112/pages/studio-5-presentation-studio?module_item_id=97458)] 

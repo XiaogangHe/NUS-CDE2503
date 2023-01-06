@@ -1,14 +1,10 @@
 ---
-title: Week 09
+title: Week 09 - Climate Adaptation
 ---
 
-Nov 7
-: **Lecture &nbsp; 6**{: .label .label-blue} Storytelling with Data
-  : [[Slides](https://luminus.nus.edu.sg)] [[Recordings](https://luminus.nus.edu.sg)]
-
-Nov 9
-: **Tutorial 6**{: .label .label-green} Work on HW#2
-  : [](#) 
-
-Nov 13
-: **HW#2 due**{: .label .label-red}
+13 Mar
+: **Lecture &nbsp; 6**{: .label .label-blue} Climate Adaptation
+  : [[Slides](https://canvas.nus.edu.sg/courses/42112/pages/lecture-6-climate-adaptation?module_item_id=97397)][[Panel Discussion Q&A](https://canvas.nus.edu.sg/courses/42112/discussion_topics/27410)]
+: **Panelist &nbsp; 1**{: .label .label-yellow} **Mr. Chua Soon Guan** (Deputy Chief Executive (Policy & Development) PUB)
+: **Panelist &nbsp; 2**{: .label .label-yellow} **Prof. Wong Nyuk Hien** (Professor, Vice Dean of Graduate Research Programmes, Department of the Built Environment, NUS)
+: **Moderator**{: .label .label-green} [Asst Prof. He Xiaogang]({{ site.baseurl }}{% link staff.md %}){: .v-align-middle}
