@@ -1,7 +1,7 @@
 ---
-title: Week 7 - Studio 2
+title: Week 7 🎤🎬
 ---
 
 27 Feb
-: **Studio &nbsp; 2**{: .label .label-blue} Presentation Studio
-  : [[Slides](https://canvas.nus.edu.sg/courses/42112/pages/studio-2-presentation-studio?module_item_id=97294])
+: **Studio &nbsp; 2**{: .label .label-red} Presentation Studio
+  : [[Studio Details]](https://xiaoganghe.github.io/InVEST-Cities-in-Nature/studio/studio-2)

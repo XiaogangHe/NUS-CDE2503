@@ -1,7 +1,7 @@
 ---
-title: Week 10 - Presentation Studio
+title: Week 10 🎤🎬
 ---
 
 20 Mar
-: **Studio &nbsp; 3**{: .label .label-blue} Presentation Studio
-  : [[Studio Details](https://canvas.nus.edu.sg/courses/42112/pages/studio-3-presentation-studio)] 
+: **Studio &nbsp; 3**{: .label .label-red} Presentation Studio
+  : [[Studio Details](https://xiaoganghe.github.io/InVEST-Cities-in-Nature/studio/studio-3)] 
