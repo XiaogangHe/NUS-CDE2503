@@ -18,15 +18,8 @@ description: >-
 
 ---
 
-<<<<<<< HEAD
 ## Videos
 - **Week 1**
-=======
-xx
-## Web References
-
-- **Data Science**
->>>>>>> 87917425f274565e9ccd66713d43b3ff462d2a1b
   - [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners)
 
 ## Blogs
