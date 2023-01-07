@@ -51,7 +51,7 @@ No pre-requisites for this module.
 - Lectures will be held live on Zoom and will be recorded. 
   I will also provide additional face-to-face support if you prefer to come to the classroom to attend the lectures. 
 
-### Studio
+### Studios
 - We have 5 studios in total. They are either working studio where you get to have discussion session with your team, SL and TA, or presentation studio where you present your findings.
 - Studios will happen on weeks where there is no lecture.
 - Information about the studios can be found on [Canvas](https://xiaoganghe.github.io/python-climate-visuals) or on [Github](https://xiaoganghe.github.io/InVEST-Cities-in-Nature/)
