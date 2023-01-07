@@ -21,7 +21,7 @@ description: >-
 ## Videos
   - [Singapore Water Story: From Scarce Resource to National Asset](https://www.youtube.com/playlist?list=PL-qfyGQM8jcG8EkequQfpLUWa2zi7wOBg)
 
-## Essential Readings - 
+## Essential Readings 
 **Urban Systems Studies (USS)**
   - [Liveable and Sustainable](https://www.clc.gov.sg/docs/default-source/books/clc-csc-liveable-sustainable-cities.pdf)
   - [Water - From Scarce Resource to National Asset](https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-water-revised.pdf)
