@@ -28,7 +28,7 @@ schedule:
       - name: Studio
         start: 9:00 AM
         end: 12:00 PM
-        location: PC5 (E2-03-08) <br /> PC6 (E2-03-09) <br /> <br /> 
+        location: T02 (SDE2-ES2) <br /> T04 (SDE2-ES2) <br /> <br /> 
                   Week 5, 7, 10, 12, 13 
   - name: 
 ---
