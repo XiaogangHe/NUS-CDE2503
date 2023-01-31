@@ -45,11 +45,10 @@ No pre-requisites for this module.
 - _**Theme 2: Climate Resilient District**_
 
 ### Lectures
--  We have 7 lectures in total. One lecture per week. 
-- These lectures will be split into two themes. The first three will focus on data analysis, 
+-  We have 7 seminars in total.
+- These seminars will be split into two themes. The first three will focus on data analysis, 
   which will be followed by another three lectures on data visualization.  
-- Lectures will be held live on Zoom and will be recorded. 
-  I will also provide additional face-to-face support if you prefer to come to the classroom to attend the lectures. 
+- Seminars will be held live in-person at SDE3-LT422 and will be recorded. 
 
 ### Studios
 - We have 5 studios in total. They are either working studio where you get to have discussion session with your team, SL and TA, or presentation studio where you present your findings.
@@ -72,10 +71,10 @@ No pre-requisites for this module.
 
 | Assignment type          | Weightage | Number     |
 |:-------------------------|:----------|:-----------|
-| Lecture  attendance[^1]  | 10%       | 7          |
+| Seminar  attendance[^1]  | 10%       | 7          |
 | Studio Project[^2]       | 60%       | 5          |
 | Quizzes                  | 30%       | 2          |
 
-[^1]: Please be punctual for lectures. Attendance is compulsory and will be taken. 
+[^1]: Please be punctual for seminars. Attendance is compulsory and will be taken. 
 
 [^2]: Studio project will consist of 2 components: Individual (15%) and Group (45%). Attendance for studios are also compulsory. Refer to [here](https://xiaoganghe.github.io/InVEST-Cities-in-Nature/studio/overview#scoring-rubric) for the studio grading rubrics.
