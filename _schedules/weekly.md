@@ -11,8 +11,13 @@ timeline:
   - '12:00 PM'
   - '12:30 PM'
   - '1:00 PM'
+  - '1:30 PM'
   - '2:00 PM'
+  - '2:30 PM'
   - '3:00 PM'
+  - '3:30 PM'
+  - '4:00 PM'
+  - '4:30 PM'
 schedule:
   - name: 
   - name: Mon
@@ -20,15 +25,20 @@ schedule:
       - name: Lecture
         start: 10:00 AM
         end: 12:00 PM 
-        location: SDE3-LT422 <br /> <br /> 
+        location: <br /> SDE3-LT422 <br /> <br /> 
                   Week 1, 2, 3, 4, 6, 8, 9, 11 
-  - name: 
   - name: Mon
     events:
-      - name: Studio
-        start: 9:00 AM
+      - name: Morning Studio
+        start: 10:00 AM
         end: 12:00 PM
-        location: T02 (SDE2-ES2) <br /> T04 (SDE2-ES2) <br /> <br /> 
+        location: <br /> T02 (SDE2-ES2) <br /> <br /> 
                   Week 5, 7, 10, 12, 13 
-  - name: 
+  - name: Mon 
+    events:
+      - name: Afternoon Studio
+        start: 2:00 PM
+        end: 4:00 PM
+        location: <br /> T04 (SDE2-ES2) <br /> <br /> 
+                  Week 5, 7, 10, 12, 13 
 ---
