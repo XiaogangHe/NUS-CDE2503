@@ -29,7 +29,7 @@ This module will cover the themes of Blue and Green in Nature, and Climate Resil
 - Identify problem(s) that prevents a city from achieving the Sustainable Environment outcome of the LF
 - Formulate solution(s) using key principles highlighted in the two broad themes of Blue and Green in Nature and Climate Resilient District to address problem(s) identified 
 - Analyse and evaluate solution(s) with the use of simulation and prediction models to highlight benefits and trade-offs 
-- Propose biophilic solution(s) in the form of policies, plans and programmes
+- Propose nature-based solution(s) in the form of policies, plans and programmes
 
 
 ### Prerequisites
