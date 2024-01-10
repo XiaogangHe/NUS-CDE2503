@@ -22,7 +22,7 @@ schedule:
   - name: 
   - name: Mon
     events:
-      - name: Seminar
+      - name: Seminars
         start: 10:00 AM
         end: 12:00 PM 
         location: <br /> SDE3-LT422 <br /> <br /> 
@@ -30,15 +30,15 @@ schedule:
   - name: Mon
     events:
       - name: Morning Studio
-        start: 10:00 AM
+        start: 9:00 AM
         end: 12:00 PM
-        location: <br /> E4-04-02 /E4-04-03 <br /> <br /> 
+        location: <br /> E4-04-02/E4-04-03 <br /> <br /> 
                   Week 3, 6, 8, 11, 13 
   - name: Mon 
     events:
       - name: Afternoon Studio
         start: 2:00 PM
-        end: 4:00 PM
-        location: <br /> E4-04-02 /E4-04-03 <br /> <br /> 
+        end: 5:00 PM
+        location: <br /> E4-04-02/E4-04-03 <br /> <br /> 
                   Week 3, 6, 8, 11, 13 
 ---
