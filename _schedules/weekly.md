@@ -22,23 +22,23 @@ schedule:
   - name: 
   - name: Mon
     events:
-      - name: Lecture
+      - name: Seminar
         start: 10:00 AM
         end: 12:00 PM 
         location: <br /> SDE3-LT422 <br /> <br /> 
-                  Week 1, 2, 3, 4, 6, 8, 9, 11 
+                  Week 1, 2, 4, 7, 9, 10, 12 
   - name: Mon
     events:
       - name: Morning Studio
         start: 10:00 AM
         end: 12:00 PM
-        location: <br /> T02 (SDE2-ES2) <br /> <br /> 
-                  Week 5, 7, 10, 12, 13 
+        location: <br /> E4-04-02 /E4-04-03 <br /> <br /> 
+                  Week 3, 6, 8, 11, 13 
   - name: Mon 
     events:
       - name: Afternoon Studio
         start: 2:00 PM
         end: 4:00 PM
-        location: <br /> T04 (SDE2-ES2) <br /> <br /> 
-                  Week 5, 7, 10, 12, 13 
+        location: <br /> E4-04-02 /E4-04-03 <br /> <br /> 
+                  Week 3, 6, 8, 11, 13 
 ---
