@@ -20,13 +20,13 @@ last_modified_date: "now"
 {% assign overview = site.slides | where: "title", "Overview" | first %}
 {{ overview.content }}
 
-This course aims to provide students with an understanding of the “Sustainable Environment” outcome of the Singapore Liveability Framework (LF) that was developed by the Centre for Liveable Cities (CLC). It will address what is sustainability, and how it affects liveability. Most importantly, you will be able to understand how cities address complex issues.
+This course will provide students with an understanding of the “Sustainable Environment” outcome of the Singapore Liveability Framework (LF) that was developed by the Centre for Liveable Cities (CLC). It will address what sustainability is, and how it affects liveability. Most importantly, students will understand how cities address complex issues.
 
-This module will cover the themes of Blue and Green in Nature, and Climate Resilient District, covering topics such as water, green, waste, food, climate mitigation, climate adaptation, and energy resilience. Using case studies, students will glean insights on how to balance different stakeholders while solving complex urban issues.
+This course will cover the themes of Climate Resilience and Use of Limited Resources, covering topics such as water, green, waste, food, climate mitigation, climate adaptation, and energy resilience. Using case studies, students will glean insights on how to balance different stakeholders while solving complex urban issues.
 
 <small>[Read more...]({{ site.baseurl }}{% link syllabus.md %})</small>
 
-[Find Zoom Links, Slides, and Recordings on Canvas](https://canvas.nus.edu.sg/courses/42112){: .btn .btn-blue }
+[Find Zoom Links, Slides, and Recordings on Canvas](https://canvas.nus.edu.sg/courses/52842){: .btn .btn-blue }
 
 {% for module in site.modules %}
 {{ module }}
