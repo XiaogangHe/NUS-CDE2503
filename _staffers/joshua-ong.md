@@ -1,6 +1,6 @@
 ---
 name: Joshua ONG
-title: NA
+title: Teaching Assistant
 institute: Dean's Office (College of Design and Engineering), NUS
 role: Teaching Assistant
 email: 📧 joshua98@nus.edu.sg  
