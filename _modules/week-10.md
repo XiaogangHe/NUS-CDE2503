@@ -1,5 +1,5 @@
 ---
-title: Week 010 ♻️
+title: Week 10 ♻️
 ---
 
 25 Mar
