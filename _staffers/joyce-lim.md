@@ -1,10 +1,10 @@
 ---
-name: Joyce LIM
+name: Mei Ting LAW
 title: Ph.D. student
 role: Teaching Assistant
-email: 📧 joyce.lim@nus.edu.sg  
+email: 📧 mt.law@nus.edu.sg  
 address: 📍 SDE1-03-03 (office)
-photo: joyce-lim.png
+photo: meiting-law.png
 ---
 
 
