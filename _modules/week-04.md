@@ -1,10 +1,10 @@
 ---
-title: Week 4 🍍🥬 
+title: Week 4 ☀️🌍🍀 
 ---
 
-30 Jan
-: **Seminar &nbsp; 3**{: .label .label-blue} Food Security and Sustainability
-  : [[Slides](https://canvas.nus.edu.sg/courses/42112/pages/lecture-3-food-security-and-sustainability?module_item_id=97188)][[Panel Discussion Q&A](https://canvas.nus.edu.sg/courses/42112/discussion_topics/27407?module_item_id=97461)]
-: **Panelist &nbsp; 1**{: .label .label-yellow} **Prof. Chew Fook Tim** (Department of Biological Sciences, NUS)
-: **Panelist &nbsp; 2**{: .label .label-yellow} **Ms. Tan Poh Hong** (Former CEO of Agri-Food & Veterinary Authority)
-: **Moderator**{: .label .label-green} [Prof. He Xiaogang]({{ site.baseurl }}{% link staff.md %}){: .v-align-middle}
+5 Feb
+: **Seminar &nbsp; 3**{: .label .label-blue} Urban Heat Island and Greening as Climate Adaptation
+  : [[Slides]()][[Panel Discussion Q&A]()]
+: **Lecturer & Panelist &nbsp; 1**{: .label .label-yellow} **Prof. Wong Nyuk Hien** (Professor, Department of the Built Environment,NUS; Vice Dean of Graduate Research Programme)
+: **Panelist &nbsp; 2**{: .label .label-yellow} **Dr. James Wang** (Deputy Director, NParks,CUGE (Sustainable Urban Greenery)
+: **Moderator**{: .label .label-green} [Mr. Wong Kai Yeng]({{ site.baseurl }}{% link staff.md %}){: .v-align-middle}
