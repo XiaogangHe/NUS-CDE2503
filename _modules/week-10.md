@@ -1,7 +1,10 @@
 ---
-title: Week 10 🎤🎬
+title: Week 010 ♻️
 ---
 
-20 Mar
-: **Studio &nbsp; 3**{: .label .label-red} Presentation Studio
-  : [[Studio Details](https://xiaoganghe.github.io/InVEST-Cities-in-Nature/studio/studio-3)] 
+25 Mar
+: **Seminar &nbsp; 6**{: .label .label-blue} Water Conservation: Is water still a scarce resource?
+  : [[Slides]()][[Panel Discussion Q&A]()]
+: **Lecturer & Panelist &nbsp; 1**{: .label .label-yellow} **Mr. Yap Kheng Guan** (Former Senior Consultant, PUB)
+: **Panelist &nbsp; 2**{: .label .label-yellow} **Mr. Wong Kai Yeng** (Adjunct Professor, NUS Cities; Former Group Director, URA; Former Director of Planning & Policy, PUB))
+: **Moderator**{: .label .label-green} [Prof. He Xiaogang]({{ site.baseurl }}{% link staff.md %}){: .v-align-middle}
