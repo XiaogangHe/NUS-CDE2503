@@ -18,7 +18,7 @@ description: >-
 
 ---
 
-## About CDE2503 - Cities in Nature
+## About CDE2503 - Cities in Nature 🌴
 This course will provide students with an understanding of the “Sustainable Environment” outcome of the Singapore Liveability Framework (LF) that was developed by the Centre for Liveable Cities (CLC). It will address what sustainability is, and how it affects liveability. Most importantly, students will understand how cities address complex issues.
 
 This course will cover the themes of Climate Resilience and Use of Limited Resources, covering topics such as water, green, waste, food, climate mitigation, climate adaptation, and energy resilience. Using case studies, students will glean insights on how to balance different stakeholders while solving complex urban issues.
@@ -40,14 +40,13 @@ No pre-requisites for this module.
 # Module Components 📖
 
 ### Themes
-- _**Theme 1: Blue and Green in Nature**_
+- _**Theme 1: Climate Resilience**_🌀
 
-- _**Theme 2: Climate Resilient District**_
+- _**Theme 2: Use of Limited Resources**_🌱
 
 ### Lectures
 -  We have 7 seminars in total.
-- These seminars will be split into two themes. The first three will focus on data analysis, 
-  which will be followed by another three lectures on data visualization.  
+- These seminars will be split into two themes.  
 - Seminars will be held live in-person at SDE3-LT422 and will be recorded. 
 
 ### Studios
@@ -62,8 +61,8 @@ No pre-requisites for this module.
 - Prof. He has an open-door policy. So feel free to drop by Prof. He's office for any reason, including course material clarification, 
   questions on tutorials, and projects, or even just to hang out.  
 
-## Reading and Video Materials
-- Pre-lecture readings and/or video materials for each week can be found on [Canvas](https://canvas.nus.edu.sg/courses/42112).
+## Reading and Video Materials 📖 📹
+- Pre-lecture readings and/or video materials for each week can be found on [Canvas](https://canvas.nus.edu.sg/courses/42112)
 - Focus on core readings for each week.
 - Supplementary materials willl be for you to deepen your knowledge at your own time. 
 
@@ -72,8 +71,9 @@ No pre-requisites for this module.
 | Assignment type          | Weightage | Number     |
 |:-------------------------|:----------|:-----------|
 | Seminar  attendance[^1]  | 10%       | 7          |
+| Active Participation throughout the course (inclusive of End of Semester Peer Review  | 10%       | 13          |
 | Studio Project[^2]       | 60%       | 5          |
-| Quizzes                  | 30%       | 2          |
+| Quizzes                  | 20%       | 2          |
 
 [^1]: Please be punctual for seminars. Attendance is compulsory and will be taken. 
 
