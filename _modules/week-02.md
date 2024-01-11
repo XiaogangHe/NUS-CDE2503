@@ -1,10 +1,10 @@
 ---
-title: Week 2 🌇🌴
+title: Week 2 🌊
 ---
 
 16 Jan
-: **Seminar &nbsp; 2**{: .label .label-blue} City in Nature
-  : [[Slides](https://canvas.nus.edu.sg/courses/42112/pages/lecture-2-city-in-nature?module_item_id=97187)][[Panel Discussion Q&A](https://canvas.nus.edu.sg/courses/42112/discussion_topics/27406?module_item_id=97460)]
-: **Panelist &nbsp; 1**{: .label .label-yellow} **Prof. Simone Fatichi** (Civil and Environmental Engineering, NUS)
-: **Panelist &nbsp; 2**{: .label .label-yellow} **Ms. Sophianne Araib** (Group Director of Parks Central & Horticulture & Community Gardening, NParks)
-: **Moderator**{: .label .label-green} [Mr. Wong Kai Yeng]({{ site.baseurl }}{% link staff.md %}){: .v-align-middle}
+: **Seminar &nbsp; 2**{: .label .label-blue} Flood Mitigation and Coastal Protection
+  : [[Slides]()][[Panel Discussion Q&A]()]
+: **Lecturer & Panelist &nbsp; 1**{: .label .label-yellow} **Mr. Tan Nguan Sen** (Senior Consultant,PUB)
+: **Panelist &nbsp; 2**{: .label .label-yellow} **Prof. Paul Simon Kench** (Professor, NUS Geography; Chair of the Graduate Studies Committee)
+: **Moderator**{: .label .label-green} [Prof. He Xiaogang]({{ site.baseurl }}{% link staff.md %}){: .v-align-middle}
