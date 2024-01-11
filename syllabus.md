@@ -30,7 +30,7 @@ This course will cover the themes of Climate Resilience and Use of Limited Resou
 - Analyse and evaluate solution(s) with the use of the simulation and prediction model InVEST to highlight benefits and trade-offs.
 
 ### Course Flow
-![Course Flow](../assets/images/course flow.png)
+photo: course-flow.png
 
 ### Prerequisites
 No pre-requisites for this module. 
