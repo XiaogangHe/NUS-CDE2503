@@ -19,18 +19,18 @@ description: >-
 ---
 
 ## About CDE2503 - Cities in Nature
-This course aims to provide students with an understanding of the "Sustainable Environment" outcome of the Singapore Liveability Framework (LF) that was developed by the Centre for Liveable Cities (CLC). It will address what is sustainability, and how it affects liveability. Most importantly, you will be able to understand how cities address complex issues.
+This course will provide students with an understanding of the “Sustainable Environment” outcome of the Singapore Liveability Framework (LF) that was developed by the Centre for Liveable Cities (CLC). It will address what sustainability is, and how it affects liveability. Most importantly, students will understand how cities address complex issues.
 
-This module will cover the themes of Blue and Green in Nature, and Climate Resilient District, covering topics such as water, green, waste, food, climate mitigation, climate adaptation, and energy resilience. Using case studies, students will glean insights on how to balance different stakeholders while solving complex urban issues. 
+This course will cover the themes of Climate Resilience and Use of Limited Resources, covering topics such as water, green, waste, food, climate mitigation, climate adaptation, and energy resilience. Using case studies, students will glean insights on how to balance different stakeholders while solving complex urban issues.
 
 ### Learning Outcomes
-- Understand key principles taught within the themes of Blue and Green in Nature, and Climate Resilient District that shapes the development of a blue, green and climate resilient city
-- Examine and evaluate how blue, green or biophilic the city is with reference to the plans implemented by agencies in Singapore 
-- Identify problem(s) that prevents a city from achieving the Sustainable Environment outcome of the LF
-- Formulate solution(s) using key principles highlighted in the two broad themes of Blue and Green in Nature and Climate Resilient District to address problem(s) identified 
-- Analyse and evaluate solution(s) with the use of simulation and prediction models to highlight benefits and trade-offs 
-- Propose nature-based solution(s) in the form of policies, plans and programmes
+- Understand key principles taught within the themes of Climate Resilience and the Use of Limited Resources that shapes the development of a sustainable and climate resilient city.
+- Identify problem(s) that prevents a city from achieving the Sustainable Environment outcome of the LF.
+- Formulate solution(s) using key principles highlighted in the two broad themes of Climate Resilience and the Use of Limited Resources to address problem(s) identified.
+- Analyse and evaluate solution(s) with the use of the simulation and prediction model InVEST to highlight benefits and trade-offs.
 
+### Course Flow
+![Course Flow](../assets/images/course flow.png)
 
 ### Prerequisites
 No pre-requisites for this module. 
