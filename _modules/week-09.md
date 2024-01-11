@@ -1,10 +1,10 @@
 ---
-title: Week 09 🚴🌲
+title: Week 09 ♻️
 ---
 
-13 Mar
-: **Seminar &nbsp; 6**{: .label .label-blue} Climate Adaptation
-  : [[Slides](https://canvas.nus.edu.sg/courses/42112/pages/lecture-6-climate-adaptation?module_item_id=97397)][[Panel Discussion Q&A](https://canvas.nus.edu.sg/courses/42112/discussion_topics/27410)]
-: **Panelist &nbsp; 1**{: .label .label-yellow} **Mr. Chua Soon Guan** (Deputy Chief Executive, Policy & Development, PUB)
-: **Panelist &nbsp; 2**{: .label .label-yellow} **Prof. Wong Nyuk Hien** (Department of the Built Environment, NUS)
+18 Mar
+: **Seminar &nbsp; 5**{: .label .label-blue} Circular Economy: How do we achieve Zero Waste?
+  : [[Slides]()][[Panel Discussion Q&A]()]
+: **Lecturer & Panelist &nbsp; 1**{: .label .label-yellow} **Mr. Loh Ah Tuan** (Adjunct Professor,NUS Cities)
+: **Panelist &nbsp; 2**{: .label .label-yellow} **Dr. Du Hongjian** (Senior Lecturer,NUS Department of Civil and Environmental Engineering)
 : **Moderator**{: .label .label-green} [Prof. He Xiaogang]({{ site.baseurl }}{% link staff.md %}){: .v-align-middle}
