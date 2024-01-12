@@ -10,7 +10,7 @@ description: >-
 # Resources 📚
 {:.no_toc}
 
-## Table of contents
+## Table of contents 📋
 {: .no_toc .text-delta }
 
 1. TOC
@@ -18,12 +18,12 @@ description: >-
 
 ---
 
-## Videos
+## Videos 📹
   - [Game for Change #SaveSemakau](https://www.youtube.com/watch?v=V_iDuwjkgK4)
   - [Singapore’s Last Landfill is Running Out of Space](https://www.youtube.com/watch?v=kuDSxswD184)
   - [Singapore Water Story: From Scarce Resource to National Asset](https://www.youtube.com/playlist?list=PL-qfyGQM8jcG8EkequQfpLUWa2zi7wOBg)
     
-## Essential Readings 
+## Essential Readings 📕
 **Urban Systems Studies (USS)**
   - [Liveable and Sustainable Cities: A Framework](https://www.clc.gov.sg/docs/default-source/books/clc-csc-liveable-sustainable-cities.pdf)
   - [Biodiversity: Nature Conservation in the Greening of Singapore](https://www.clc.gov.sg/docs/default-source/urban-systems-studies/uss-biodiversity.pdf)
@@ -57,7 +57,7 @@ description: >-
 -  [Singapore’s Energy story](https://www.ema.gov.sg/our-energy-story)
 -  [Empowering Cities for a Net Zero Future: Unlocking resilient, smart, sustainable urban energy systems](https://iea.blob.core.windows.net/assets/4d5c939d-9c37-490b-bb53-2c0d23f2cf3d/G20EmpoweringCitiesforaNetZeroFuture.pdf)
   
-## News Articles
+## News Articles 📰
 - [More decarbonising initiatives for Singapore’s built environment sector in move towards net-zero by 2050](https://www.straitstimes.com/singapore/decarbonising-initiatives-for-s-pore-s-built-environment-sector-in-move-towards-net-zero-by-2050)
 - [Singapore committed to decarbonisation goals while uplifting workers in the transformation: Grace Fu](https://www.channelnewsasia.com/sustainability/ecosperity-2023-temasek-grace-fu-decarbonisation-uplift-workers-3542241)
 - [PUB explores underground space to protect Singapore against rising sea levels](https://www.straitstimes.com/singapore/pub-explores-underground-space-to-protect-singapore-against-rising-sea-levels)
@@ -78,7 +78,7 @@ description: >-
 - [Singapore to start imports of renewable energy from Indonesia within 5 years](https://www.straitstimes.com/asia/se-asia/singapore-to-start-imports-of-renewable-energy-from-indonesia-within-5-years)
 - [Singapore to invest in new capabilities to meet sustainability targets, raise climate resilience](https://www.straitstimes.com/singapore/environment/s-pore-will-invest-in-new-capabilities-to-meet-sustainability-targets-raise-climate-resilience-grace-fu)
 
-## Research Papers
+## Research Papers 📃
 - Tortajada, C., & Lim, N. S. W. (2021). [Food security and COVID-19: impacts and resilience in Singapore](https://www.frontiersin.org/articles/10.3389/fsufs.2021.740780/full).Frontiers in Sustainable Food Systems, 5, 740780.
 - Tortajada, C., & Joshi, Y. K. (2013). Water demand management in Singapore: involving the public. Water resources management, 27(8), 2729-2746.
   
