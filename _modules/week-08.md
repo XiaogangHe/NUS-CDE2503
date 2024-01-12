@@ -2,7 +2,7 @@
 title: Week 8 🍙🍤🍇
 ---
 
-4 Mar
+11 Mar
 : **Seminar &nbsp; 4**{: .label .label-blue} Food Resilience: How do we achieve 30-30 in food security?
   : [[Slides]()][[Panel Discussion Q&A]()]
 : **Lecturer & Panelist &nbsp; 1**{: .label .label-yellow} **Ms. Tan Poh Hong** (Adjunct Professor, NUS Real Estate; Former CEO of Agri-Food and Veterinary Authority (AVA))
