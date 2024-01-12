@@ -84,7 +84,7 @@ description: >-
   
 ## Jakarta Reading Materials
 **Introduction**
-- [Jakarta:Indonesia, History, Map, Population & Facts | Britannica](https://www.britannica.com/place/Jakarta)
+- [Jakarta:Indonesia, History, Map, Population & Facts : Britannica](https://www.britannica.com/place/Jakarta)
 - [Jakarta- History of a Misunderstood City](https://www.youtube.com/watch?v=3nZ-GnMZTh4)
 - [Indonesia's Urban Story](https://www.worldbank.org/en/news/feature/2016/06/14/indonesia-urban-story)
 - Chapter 3 : Examining the Interdependencies Between Urbanisation, Internal Migration, Urban Poverty, and Inequality: Evidence from Indonesia [(PDF) Patterns and Trends of Urbanisation and Urban Growth in Asia](https://www.researchgate.net/publication/334554601_Patterns_and_Trends_of_Urbanization_and_Urban_Growth_in_Asia)
