@@ -82,7 +82,7 @@ description: >-
 - Tortajada, C., & Lim, N. S. W. (2021). [Food security and COVID-19: impacts and resilience in Singapore](https://www.frontiersin.org/articles/10.3389/fsufs.2021.740780/full).Frontiers in Sustainable Food Systems, 5, 740780.
 - Tortajada, C., & Joshi, Y. K. (2013). Water demand management in Singapore: involving the public. Water resources management, 27(8), 2729-2746.
   
-## Jakarta Case Study Reading Materials
+## Jakarta Reading Materials
 **Introduction**
 - [Jakarta:Indonesia, History, Map, Population & Facts | Britannica](https://www.britannica.com/place/Jakarta)
 - [Jakarta- History of a Misunderstood City](https://www.youtube.com/watch?v=3nZ-GnMZTh4)
