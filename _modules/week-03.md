@@ -1,8 +1,8 @@
 ---
-title: Week 3 ☀️🌍🍀 
+title: Week 4 ☀️🌍🍀 
 ---
 
-29 Jan
+5 Feb
 : **Seminar &nbsp; 3**{: .label .label-blue} Urban Heat Island and Greening as Climate Adaptation
   : [[Slides]()][[Panel Discussion Q&A]()]
 : **Lecturer & Panelist &nbsp; 1**{: .label .label-yellow} **Prof. Wong Nyuk Hien** (Professor, Department of the Built Environment,NUS; Vice Dean of Graduate Research Programme)
