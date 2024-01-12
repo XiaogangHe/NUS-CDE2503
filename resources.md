@@ -83,3 +83,57 @@ description: >-
 - Tortajada, C., & Joshi, Y. K. (2013). Water demand management in Singapore: involving the public. Water resources management, 27(8), 2729-2746.
   
 ## Jakarta Case Study Reading Materials
+**Introduction**
+-[Jakarta | Indonesia, History, Map, Population & Facts | Britannica](https://www.britannica.com/place/Jakarta)
+-[Jakarta- History of a Misunderstood City](https://www.youtube.com/watch?v=3nZ-GnMZTh4)
+-[Indonesia's Urban Story](https://www.worldbank.org/en/news/feature/2016/06/14/indonesia-urban-story)
+-Chapter 3 : Examining the Interdependencies Between Urbanisation, Internal Migration, Urban Poverty, and Inequality: Evidence from Indonesia [(PDF) Patterns and Trends of Urbanisation and Urban Growth in Asia](https://www.researchgate.net/publication/334554601_Patterns_and_Trends_of_Urbanization_and_Urban_Growth_in_Asia)
+-[INDONESIA's URBAN STUDIES: The Megacity of Jakarta: Problems, Challenges and Planning Efforts](https://indonesiaurbanstudies.blogspot.com/2014/03/the-megacity-of-jakarta-problems.html)
+-[Jakarta: A city of cities-PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7442427/)
+
+**Demography and Urban Expansion**
+-[Jakarta to Overtake Tokyo as Most Populated Megacity by 2030 | Business Wire](https://www.businesswire.com/news/home/20181004005247/en/Jakarta-to-Overtake-Tokyo-as-Most-Populated-Megacity-by-2030)
+-[Jakarta Population 2024](https://worldpopulationreview.com/world-cities/jakarta-population)
+-[Jakarta, Indonesia Metro Area Population 1950-2023 | MacroTrends](https://www.macrotrends.net/cities/21454/jakarta/population)
+-[Jakarta Population: History, Map and Facts](https://www.socialexpat.net/jakarta-population-2022/)
+-[Pre-Urban transformation in the Jakarta metropolitan area](https://www.researchgate.net/profile/Haryo-Winarso/publication/277814471_Pen-urban_transformation_in_the_Jakarta_metropolitan_area/links/55746a5a08aeacff1ffcbcd9/Pen-urban-transformation-in-the-Jakarta-metropolitan-area.pdf)
+-[Return to the Inner City? Jakarta Housing Market...| by Daniel Caesar Pratama | Medium](https://medium.com/@danielcaesarpratama/return-to-the-inner-city-f7cb01dc73d6)
+
+**Urban Issues and Megapolitan Plans**
+-[The correlation analysis between urbanisation phenomena and landuse change in Jakarta Special Province](https://pdfs.semanticscholar.org/0ab8/317c6a66f5f3cff3e1c33aa527a783793636.pdf)
+-[Govt plans to develop Jakarta as part of megalopolis-ANTARA News](https://en.antaranews.com/news/296040/govt-plans-to-develop-jakarta-as-part-of-megalopolis)
+-[Strategi Ketahanan Kota Jakarta](https://resilientcitiesnetwork.org/downloadable_resources/Network/Jakarta-Resilience-Strategy-English.pdf)
+
+**Water Management and Environmental Challenges**
+-[Governance of flood risk management in a time of climate change: The cases of Jakarta and Rotterdam](https://www.researchgate.net/profile/Arwin-Van-Buuren/publication/229997521_Governance_of_flood_risk_management_in_a_time_of_climate_change_The_cases_of_Jakarta_and_Rotterdam/links/5745683008aea45ee8538cb4/Governance-of-flood-risk-management-in-a-time-of-climate-change-The-cases-of-Jakarta-and-Rotterdam.pdf)
+-[Flooding in Jakarta - Towards a blue city with improved water management](https://scholar.google.co.id/scholar_url?url=https://brill.com/downloadpdf/journals/bki/161/4/article-p454_3.pdf&hl=en&sa=X&ei=cVqWZZ7jFpWx6rQP4oCs8Ag&scisig=AFWwaeatsmNJUSBgmYIhFBKOQdIC&oi=scholarr)
+-[Better flood management can save Jakarta](https://www.eastasiaforum.org/2021/07/13/better-flood-management-can-save-jakarta/#:~:text=The%20provincial%20government%20of%20the,control%20and%20channel%20unruly%20waters.)
+-[Jakarta and Bali commit to create Sustainable Water Management | 10th World Water Forum 2024](https://worldwaterforum.org/blog/news-3/jakarta-and-bali-commit-to-create-sustainable-water-management-23)
+-[Jakarta water supply provision strategy based on supply and demand analysis | H2Open Journal | IWA Publishing](https://iwaponline.com/h2open/article/5/2/221/88196/Jakarta-water-supply-provision-strategy-based-on)
+-[Collaborative measures in the archipelago needed to ensure water security - Inforial- The Jakarta Post](https://www.thejakartapost.com/adv/2023/12/04/collaborative-measures-in-the-archipelago-needed-to-ensure-water-security.html)
+-[It's Time to Rethink Jakarta's Water Governance](https://iis.fisipol.ugm.ac.id/2021/03/25/its-time-to-rethink-jakartas-water-governance/)
+
+**Energy, Food and Waste Management in the Megapolitan Context**
+-[Impact of continuous Jakarta megacity urban expansion on the formation of the Jakarta-Bandung conurbation over the rice farm regions-ScienceDirect](https://id.elsevier.com/as/authorization.oauth2?platSite=SD%2Fscience&scope=openid%20email%20profile%20els_auth_info%20els_idp_info%20els_idp_analytics_attrs%20urn%3Acom%3Aelsevier%3Aidp%3Apolicy%3Aproduct%3Ainst_assoc&response_type=code&redirect_uri=https%3A%2F%2Fwww.sciencedirect.com%2Fuser%2Fidentity%2Flanding&authType=SINGLE_SIGN_IN&prompt=none&client_id=SDFE-v4&state=retryCounter%3D0%26csrfToken%3D2a3ba81a-2d9d-47b4-a80b-74e2ef70836a%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0264275120313482%26prompt%3Dnone%26cid%3Darp-afc59c1f-0940-4bd9-9793-d2da5ea29bf2)
+-[7 things to know about Jakarta's Air Pollution Crisis | WRI Indonesia](https://wri-indonesia.org/en/insights/7-things-know-about-jakartas-air-pollution-crisis)
+-[Sustainable Energy Transition Roadmap for Jakarta](https://www.unescap.org/sites/default/d8files/knowledge-products/Sustainable%20Energy%20Transition%20Roapmap%20for%20Jakarta_FINAL.pdf)
+-[Solid Waste Management of Jakarta- Indonesia](https://www.diva-portal.org/smash/get/diva2:411073/FULLTEXT01.pdf)
+-[Waste Management in Indonesia and Jakarta: Challenges and Way Forward](https://asef.org/wp-content/uploads/2022/01/ASEFSU23_Background-Paper_Waste-Management-in-Indonesia-and-Jakarta.pdf)
+-[Waste Problem in Jakarta will be solved- Green Info](https://greeneration.org/en/publication/green-info/waste-problem-in-jakarta-will-be-solved/)
+-[Community-Based Waste Management Model in DKI Jakarta](https://media.neliti.com/media/publications/508479-community-based-waste-management-model-i-3e671175.pdf)
+-[Neighbourhood-based waste management: A solution for solid waste problems in Jakarta, Indonesia- ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0956053X06002650)
+-[Transformative Solutions in the Global South: Addressing Solid Waste Management Challenges in Jakarta Through Participation by Civil Society Organisation? | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-031-15904-6_18)
+-[Three-fourths of waste in Jakarta's notoriously polluted rivers is plastic](https://news.mongabay.com/2022/08/three-fourths-of-waste-in-jakartas-notoriously-polluted-rivers-is-plastic/)
+
+**Climate Change Impact and Megapolitan Sustainability**
+-[Identifying the sustainability level of urban slums in the Greater Jakarta Indonesia using a composite index](https://iopscience.iop.org/article/10.1088/1755-1315/824/1/012093/pdf)
+-[Linking Disaster Risk Reduction and Climate Change Adaptation through Collaborative Governance: Experience from Urban Flooding in Jakarta](https://www.mdpi.com/2076-3263/13/11/353)
+-[Assessing Jakarta's Climate Investments](https://www.climatepolicyinitiative.org/wp-content/uploads/2021/11/Assessing-Jakartas-Climate-Investments.pdf)
+-[Living in a hot city: thermal justice through green open space provision](https://www.frontiersin.org/articles/10.3389/fhumd.2023.1237515/full)
+
+**Governance and Policy in the Megapolitan Framework**
+-[Govt plans to develop Jakarta as part of megalopolis -ANTARA News](https://en.antaranews.com/news/296040/govt-plans-to-develop-jakarta-as-part-of-megalopolis)
+-[Ensuring Jakarta's post-capital relocation development - ANTARA News](https://en.antaranews.com/news/296919/ensuring-jakartas-post-capital-relocation-development)
+-[Jakarta without the Capital City Status: Multi perspective Opinion and Integrated Development - Universitas Indonesia](https://www.ui.ac.id/en/jakarta-without-the-capital-city-status-multiperspective-opinion-and-integrated-development/)
+-[Jakarta aims to become global city after capital relocation](https://asianews.network/jakarta-aims-to-become-global-city-after-capital-relocation/)
+-[Jakarta After Being the Capital City - Kompas.id](https://www.kompas.id/baca/english/2021/04/07/jakarta-after-being-the-capital-city)
