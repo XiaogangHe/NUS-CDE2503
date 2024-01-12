@@ -64,8 +64,8 @@ No pre-requisites for this module.
 
 ## Reading and Video Materials 📖 📹
 - Pre-lecture readings and/or video materials for each week can be found on [Canvas](https://canvas.nus.edu.sg/courses/42112)
-- Focus on core readings for each week.
-- Supplementary materials willl be for you to deepen your knowledge at your own time. 
+- Focus on essential readings for each week.
+- Supplementary materials will be for you to deepen your knowledge at your own time. 
 
 ## Grading Scheme
 
