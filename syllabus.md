@@ -41,9 +41,9 @@ No pre-requisites for this module.
 # Module Components 📖
 
 ### Themes
-- _**Theme 1: Climate Resilience**_🌀
+- _**Theme 1: Climate Resilience**_ 🌀
 
-- _**Theme 2: Use of Limited Resources**_🌱
+- _**Theme 2: Use of Limited Resources**_ 🌱
 
 ### Lectures
 -  We have 7 seminars in total.
