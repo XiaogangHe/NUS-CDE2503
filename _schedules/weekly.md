@@ -32,13 +32,7 @@ schedule:
       - name: Morning Studio
         start: 9:00 AM
         end: 12:00 PM
-        location: <br /> E4-04-02/E4-04-03 <br /> <br /> 
+        location: <br /> E4-04-02 <br /> <br /> 
                   Week 3, 6, 8, 11, 13 
-  - name: Mon 
-    events:
-      - name: Afternoon Studio
-        start: 2:00 PM
-        end: 5:00 PM
-        location: <br /> E4-04-02/E4-04-03 <br /> <br /> 
-                  Week 3, 6, 8, 11, 13 
+ 
 ---
