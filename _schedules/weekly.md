@@ -33,6 +33,6 @@ schedule:
         start: 9:00 AM
         end: 12:00 PM
         location: <br /> E4-04-02 <br /> <br /> 
-                  Week 3, 6, 8, 11, 13 
+                  Week 3, 5, 6, 8, 13 
  
 ---
