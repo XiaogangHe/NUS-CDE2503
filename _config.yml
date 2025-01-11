@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: CDE2503
 tagline: Cities 🌇 in Nature 🌴
-description: National University of Singapore (NUS), Spring 2024
+description: National University of Singapore (NUS), Spring 2025
 author: Xiaogang He
 baseurl: '/NUS-CDE2503' # the subpath of your site, e.g. /blog
 url: 'https://xiaoganghe.github.io' # the base hostname & protocol for your site, e.g. http://example.com
