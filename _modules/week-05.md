@@ -1,6 +1,8 @@
 ---
-title: Week 5 🧨🎆 
+title: Week 5 🎤🎬 
 ---
 
-12 Feb
-: **No Seminar**{: .label .label-red} __Happy Chinese New Year 🐉 To You!__
+10 Feb
+: **Studio &nbsp; 2**{: .label .label-red} 1st Presentation Studio
+  : [[Studio Details](https://xxx)] 
+

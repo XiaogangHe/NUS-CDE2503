@@ -1,7 +1,6 @@
 ---
-title: Week 11 🎤🎬
+title: Week 11 🎆 
 ---
 
-1 Apr
-: **Studio &nbsp; 4**{: .label .label-red} 2nd Presentation Studio
-  : [[Studio Details]](https://xiaoganghe.github.io/InVEST-Cities-in-Nature/studio/studio-4)
+12 Feb
+: **No Seminar**{: .label .label-red} __Happy Hari Raya Puasa!__
