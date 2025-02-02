@@ -27,11 +27,6 @@ This course will cover the themes of Climate Resilience and Use of Limited Resou
 - Understand key principles taught within the themes of Climate Resilience and the Use of Limited Resources that shapes the development of a sustainable and climate resilient city.
 - Identify problem(s) that prevents a city from achieving the Sustainable Environment outcome of the LF.
 - Formulate solution(s) using key principles highlighted in the two broad themes of Climate Resilience and the Use of Limited Resources to address problem(s) identified.
-- Analyse and evaluate solution(s) with the use of the simulation and prediction model InVEST to highlight benefits and trade-offs.
-
-### Course Flow
-![Course](../assets/images/course-flow.png)
-
 
 ### Prerequisites
 No pre-requisites for this module. 
