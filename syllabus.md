@@ -43,7 +43,7 @@ No pre-requisites for this module.
 ### Lectures
 -  We have 7 seminars in total.
 - These seminars will be split into two themes.  
-- Seminars will be held live in-person at SDE3-LT422 and will be recorded. 
+- Seminars will be held live in-person at LT7A and will be recorded. 
 
 ### Studios
 - We have 5 studios in total. They are either working studio where you get to have discussion session with your team, SL and TA, or presentation studio where you present your findings.
