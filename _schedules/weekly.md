@@ -25,7 +25,7 @@ schedule:
       - name: Seminars
         start: 10:00 AM
         end: 12:00 PM 
-        location: <br /> SDE3-LT422 <br /> <br /> 
+        location: <br /> LT7A <br /> <br /> 
                   Week 1, 2, 4, 7, 9, 10, 12 
   - name: Mon
     events:
